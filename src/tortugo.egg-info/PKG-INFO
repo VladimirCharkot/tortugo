@@ -7,8 +7,11 @@ Author: Vladimir Charkot
 Author-email: vlad.chk@gmail.com
 License: UNKNOWN
 Description: # Tortugo
+        
         Latam translation of the python turtle module
+        
         Traducción a español latinoamericano del paquete `turtle`
+        
         Nombres en `src/tortugo/__init__py`
         
 Platform: UNKNOWN
